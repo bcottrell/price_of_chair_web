@@ -38,6 +38,9 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+# Files I added
+.idea
+*.pyc
 
 # Directories potentially created on remote AFP share
 .AppleDB
